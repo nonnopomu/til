@@ -1,5 +1,0 @@
-今日学んだこと（ActiveRecord）
-
-・find_by は条件で最初の1件を返し、無ければ nil（find_by! は例外）
-・where は集合（Relation）を返すので、1件にしたいなら first などが必要
-・find は主キー(id)で取得し、無ければ例外
